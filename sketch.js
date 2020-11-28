@@ -65,15 +65,7 @@ function draw() {
   bobObject3.display();
   bobObject4.display();
   bobObject5.display();
- 
   
-  
-	
-  
- 
-  
-  
- 
 }
 
 function keyPressed() {
